@@ -20,6 +20,11 @@ use Illuminate\Support\Facades\Route;
 //    return view('welcome');
 //});
 
+Route::get('/test',function (){
+
+    dd(\M\Coupon\Coupon::test());
+});
+
 Route::get('/invoiceForm','Controller@invoiceForm');
 
 Route::post('/invoice/post','Controller@invoiceFormPost');
