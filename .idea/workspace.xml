@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
@@ -144,6 +147,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ehyyKJSw4oQ9J3xNGJjj7G4lvK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -182,6 +186,7 @@
       <workItem from="1594957789406" duration="3441000" />
       <workItem from="1594963860742" duration="5905000" />
       <workItem from="1594982365498" duration="2835000" />
+      <workItem from="1595044123248" duration="782000" />
     </task>
     <servers />
   </component>
